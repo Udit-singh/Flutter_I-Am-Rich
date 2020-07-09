@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+##### Made with ♥ by <a href="https://github.com/Udit-singh">Udit Singh</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Udit-singh)
